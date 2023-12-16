@@ -1,2 +1,3 @@
 # Technical-Documentation
-Technical Documentation using HTML, CSS and JavaScript
+Technical Documentation Project using HTML, CSS and JavaScript.
+Topic of this technical documentation is "What is C++?"
